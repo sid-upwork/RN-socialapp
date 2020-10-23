@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>488775034242-vgrqop5bfv1o6jg176dasvvtbaelnj2t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.488775034242-vgrqop5bfv1o6jg176dasvvtbaelnj2t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAnpbc8k7vLnUke22HsDjGQxIiyA3TGVdU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>488775034242</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.twocent</string>
+	<key>PROJECT_ID</key>
+	<string>cents-1a58c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cents-1a58c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:488775034242:ios:4dfdf08d518b7116</string>
+	<key>DATABASE_URL</key>
+	<string>https://cents-1a58c.firebaseio.com</string>
+</dict>
+</plist>

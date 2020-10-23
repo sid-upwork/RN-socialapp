@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+         <item name="android:datePickerDialogTheme">@style/Dialog.Theme</item>
+    </style>
+
+
+    <style name="Dialog.Theme" parent="Theme.AppCompat.Light.Dialog">
+            <item name="colorPrimary">@color/colorPrimary</item>
+            <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+            <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_splash</item>
+        <item name="android:statusBarColor">@color/blue</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="LoginThemeYellow" parent="Theme.AccountKit">
+        <item name="com_accountkit_primary_color">#F6382A</item>
+        <item name="com_accountkit_primary_text_color">@android:color/white</item>
+        <item name="com_accountkit_secondary_text_color">#4C7D82</item>
+        <item name="com_accountkit_status_bar_color">#F6382A</item>
+
+        <item name="com_accountkit_input_accent_color">?attr/com_accountkit_primary_color</item>
+        <item name="com_accountkit_input_border_color">?attr/com_accountkit_primary_color</item>
+    </style>
+</resources>

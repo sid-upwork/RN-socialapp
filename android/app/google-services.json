@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "488775034242",
+    "firebase_url": "https://cents-1a58c.firebaseio.com",
+    "project_id": "cents-1a58c",
+    "storage_bucket": "cents-1a58c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488775034242:android:9fcbe18607fcb564",
+        "android_client_info": {
+          "package_name": "com.twocents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488775034242-6tuc72lmofhdipfknealj9fgdudj7hge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKYq3KwqT8dyVrs_rD5mkoBhFrAUOrtpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488775034242-6tuc72lmofhdipfknealj9fgdudj7hge.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "488775034242-vgrqop5bfv1o6jg176dasvvtbaelnj2t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.twocent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
